@@ -58,3 +58,26 @@
   </tr>
 </table>
 <!-- spotify-playlist:end -->
+
+<!-- contact-support:start -->
+### 🔗 Connect
+
+<a href="https://www.instagram.com/quyen.o7/">
+  <img src="https://raw.githubusercontent.com/quyen2867/quyen2867/main/assets/instagram-contact.svg" width="310" height="64" alt="Instagram — @quyen.o7" />
+</a>
+
+### ☕ Mời mình ly cà phê
+
+Cảm ơn bạn đã ghé thăm và ủng hộ những dự án của mình 💚
+
+<details>
+  <summary><strong>Hiện mã QR MoMo / VietQR</strong></summary>
+  <br />
+  <p align="center">
+    <a href="https://raw.githubusercontent.com/quyen2867/quyen2867/main/assets/support-qr.jpeg">
+      <img src="https://raw.githubusercontent.com/quyen2867/quyen2867/main/assets/support-qr.jpeg" width="420" alt="QR nhận tiền — MAI HỒNG QUYỀN. Bấm để mở ảnh gốc." />
+    </a>
+  </p>
+  <p align="center"><sub>Bấm vào ảnh để mở bản lớn hoặc lưu mã QR.</sub></p>
+</details>
+<!-- contact-support:end -->
