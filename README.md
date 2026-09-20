@@ -8,9 +8,7 @@
 
 <p align="center"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXc1eWhmbXJoYzNvazIwNjc2OHd3Mzl6NjY3bmtkMzJ1dHZlZzl3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/96MuY2SfXKC1yrI7Wr/giphy.gif" alt="hacker-gif" /></p>
 
-## Welcome to quyen.7o!
 
-I'm **quyen.7o** a curious web pentester, a relentless security explorer, and a self-taught digital faultfinder.
 
 ### 👨🏻‍💻 &nbsp;Arsenal I Operate With
 
