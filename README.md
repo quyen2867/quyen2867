@@ -26,7 +26,6 @@
 </p>
 <!-- system-dashboard:end -->
 
-<p align="center"> <img src="https://streak-stats.demolab.com?user=quyen2867&theme=material-palenight&hide_border=true&cache_seconds=86400" /> </p>
 
 ### 🐍 Contribution Snake
 
