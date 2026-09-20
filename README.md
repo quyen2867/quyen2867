@@ -16,9 +16,15 @@
 
 ---
 
-### 📈 Some GitHub Stats
+### 🖥️ System Dashboard
 
-<table> <tr> <td align="center" style="padding: 10px;"> <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=quyen2867&show_icons=true&include_all_commits=true&theme=material-palenight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" /> </td> <td align="center" style="padding: 10px;"> <img width="400" height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=quyen2867&layout=compact&theme=material-palenight&langs_count=6&hide=jupyter%20notebook,tex,css,php&hide_border=true&cache_seconds=86400" alt="Top Languages" /> </td> </tr> </table>
+<!-- system-dashboard:start -->
+<p align="center">
+  <a href="https://github.com/quyen2867?tab=repositories">
+    <img width="900" src="https://raw.githubusercontent.com/quyen2867/quyen2867/main/assets/github-dashboard.svg" alt="quyen2867 system dashboard: public repositories, stars, contributions, 28-day activity, language usage and recent repository pushes. Updated daily." />
+  </a>
+</p>
+<!-- system-dashboard:end -->
 
 <p align="center"> <img src="https://streak-stats.demolab.com?user=quyen2867&theme=material-palenight&hide_border=true&cache_seconds=86400" /> </p>
 

@@ -1,0 +1,47 @@
+name: Update system dashboard
+
+on:
+  schedule:
+    - cron: '41 21 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/scripts/dashboard.py
+      - .github/workflows/dashboard.yml
+
+permissions:
+  contents: read
+
+concurrency:
+  group: profile-dashboard
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - name: Check out profile
+        uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          ref: main
+
+      - name: Build dashboard from GitHub data
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 .github/scripts/dashboard.py
+
+      - name: Save dashboard
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-dashboard.svg
+          if git diff --staged --quiet; then
+            exit 0
+          fi
+          git commit -m "Update system dashboard"
+          git pull --rebase origin main
+          git push origin HEAD:main

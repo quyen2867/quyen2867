@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="650" viewBox="0 0 900 650" role="img" aria-labelledby="title desc">
+<title id="title">GitHub system dashboard</title>
+<desc id="desc">Repository totals, contribution activity, language usage and recently pushed public repositories. Updated daily from GitHub.</desc>
+<defs><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#14212d" stroke-width="0.5"/></pattern></defs>
+<rect x="0.5" y="0.5" width="899" height="649" rx="18" fill="#080e16" stroke="#263543"/>
+<rect x="1" y="1" width="898" height="648" rx="18" fill="url(#grid)"/>
+<path d="M25 20H75 M25 20V31 M875 20H825 M875 20V31" fill="none" stroke="#58d5b0" stroke-width="2"/>
+
+<text x="26" y="48" fill="#58d5b0" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="600" text-anchor="start">GITHUB / SYSTEM DASHBOARD</text>
+<text x="26" y="81" fill="#e6f1f7" font-size="27" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="700" text-anchor="start">quyen2867</text>
+<text x="874" y="48" fill="#93a8b9" font-size="11" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="400" text-anchor="end">PROFILE TELEMETRY</text>
+<text x="874" y="76" fill="#58d5b0" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="400" text-anchor="end">SNAPSHOT  /  DAILY REFRESH</text>
+<rect x="26" y="103" width="203" height="99" rx="9" fill="#0d1722" stroke="#233343"/>
+<path d="M41 119H61" stroke="#58d5b0" stroke-width="2"/>
+<text x="41" y="139" fill="#93a8b9" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="400" text-anchor="start">PUBLIC REPOS</text>
+<text x="41" y="172" fill="#edf7fa" font-size="30" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="600" text-anchor="start">5</text>
+<text x="41" y="191" fill="#8497a8" font-size="9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="400" text-anchor="start">owned repositories</text>
+<rect x="241" y="103" width="203" height="99" rx="9" fill="#0d1722" stroke="#233343"/>
+<path d="M256 119H276" stroke="#58d5b0" stroke-width="2"/>
+<text x="256" y="139" fill="#93a8b9" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="400" text-anchor="start">STARS RECEIVED</text>
+<text x="256" y="172" fill="#edf7fa" font-size="30" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="600" text-anchor="start">0</text>
+<text x="256" y="191" fill="#8497a8" font-size="9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="400" text-anchor="start">across public repos</text>
+<rect x="456" y="103" width="203" height="99" rx="9" fill="#0d1722" stroke="#233343"/>
+<path d="M471 119H491" stroke="#58d5b0" stroke-width="2"/>
+<text x="471" y="139" fill="#93a8b9" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="400" text-anchor="start">CONTRIBUTIONS</text>
+<text x="471" y="172" fill="#edf7fa" font-size="30" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="600" text-anchor="start">21</text>
+<text x="471" y="191" fill="#8497a8" font-size="9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="400" text-anchor="start">past 12 months</text>
+<rect x="671" y="103" width="203" height="99" rx="9" fill="#0d1722" stroke="#233343"/>
+<path d="M686 119H706" stroke="#58d5b0" stroke-width="2"/>
+<text x="686" y="139" fill="#93a8b9" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="400" text-anchor="start">COMMIT CONTRIB.</text>
+<text x="686" y="172" fill="#edf7fa" font-size="30" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="600" text-anchor="start">16</text>
+<text x="686" y="191" fill="#8497a8" font-size="9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="400" text-anchor="start">past 12 months</text>
+<rect x="26" y="216" width="512" height="211" rx="9" fill="#0d1722" stroke="#233343"/>
+<rect x="552" y="216" width="322" height="211" rx="9" fill="#0d1722" stroke="#233343"/>
+<text x="43" y="241" fill="#58d5b0" font-size="11" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="600" text-anchor="start">01 / ACTIVITY SIGNAL</text>
+<text x="521" y="241" fill="#93a8b9" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="400" text-anchor="end">28 DAYS</text>
+<text x="43" y="267" fill="#e6f1f7" font-size="16" font-family="Arial, Helvetica, sans-serif" font-weight="600" text-anchor="start">21 contributions</text>
+<text x="521" y="266" fill="#93a8b9" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="400" text-anchor="end">2 active days</text>
+<path d="M67 289H518" stroke="#22313e" stroke-dasharray="3 5"/>
+<text x="57" y="292" fill="#93a8b9" font-size="9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="400" text-anchor="end">18</text>
+<path d="M67 334H518" stroke="#22313e" stroke-dasharray="3 5"/>
+<text x="57" y="337" fill="#93a8b9" font-size="9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="400" text-anchor="end">9</text>
+<path d="M67 379H518" stroke="#22313e" stroke-dasharray="3 5"/>
+<text x="57" y="382" fill="#93a8b9" font-size="9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="400" text-anchor="end">0</text>
+<rect x="72" y="377.00" width="10" height="2.00" rx="2" fill="#2a3b4a"><title>2026-08-24: 0 contributions</title></rect>
+<rect x="88" y="377.00" width="10" height="2.00" rx="2" fill="#2a3b4a"><title>2026-08-25: 0 contributions</title></rect>
+<rect x="104" y="377.00" width="10" height="2.00" rx="2" fill="#2a3b4a"><title>2026-08-26: 0 contributions</title></rect>
+<rect x="120" y="377.00" width="10" height="2.00" rx="2" fill="#2a3b4a"><title>2026-08-27: 0 contributions</title></rect>
+<rect x="136" y="377.00" width="10" height="2.00" rx="2" fill="#2a3b4a"><title>2026-08-28: 0 contributions</title></rect>
+<rect x="152" y="377.00" width="10" height="2.00" rx="2" fill="#2a3b4a"><title>2026-08-29: 0 contributions</title></rect>
+<rect x="168" y="377.00" width="10" height="2.00" rx="2" fill="#2a3b4a"><title>2026-08-30: 0 contributions</title></rect>
+<rect x="184" y="377.00" width="10" height="2.00" rx="2" fill="#2a3b4a"><title>2026-08-31: 0 contributions</title></rect>
+<rect x="200" y="377.00" width="10" height="2.00" rx="2" fill="#2a3b4a"><title>2026-09-01: 0 contributions</title></rect>
+<rect x="216" y="377.00" width="10" height="2.00" rx="2" fill="#2a3b4a"><title>2026-09-02: 0 contributions</title></rect>
+<rect x="232" y="377.00" width="10" height="2.00" rx="2" fill="#2a3b4a"><title>2026-09-03: 0 contributions</title></rect>
+<rect x="248" y="377.00" width="10" height="2.00" rx="2" fill="#2a3b4a"><title>2026-09-04: 0 contributions</title></rect>
+<rect x="264" y="377.00" width="10" height="2.00" rx="2" fill="#2a3b4a"><title>2026-09-05: 0 contributions</title></rect>
+<rect x="280" y="377.00" width="10" height="2.00" rx="2" fill="#2a3b4a"><title>2026-09-06: 0 contributions</title></rect>
+<rect x="296" y="377.00" width="10" height="2.00" rx="2" fill="#2a3b4a"><title>2026-09-07: 0 contributions</title></rect>
+<rect x="312" y="377.00" width="10" height="2.00" rx="2" fill="#2a3b4a"><title>2026-09-08: 0 contributions</title></rect>
+<rect x="328" y="377.00" width="10" height="2.00" rx="2" fill="#2a3b4a"><title>2026-09-09: 0 contributions</title></rect>
+<rect x="344" y="377.00" width="10" height="2.00" rx="2" fill="#2a3b4a"><title>2026-09-10: 0 contributions</title></rect>
+<rect x="360" y="377.00" width="10" height="2.00" rx="2" fill="#2a3b4a"><title>2026-09-11: 0 contributions</title></rect>
+<rect x="376" y="377.00" width="10" height="2.00" rx="2" fill="#2a3b4a"><title>2026-09-12: 0 contributions</title></rect>
+<rect x="392" y="377.00" width="10" height="2.00" rx="2" fill="#2a3b4a"><title>2026-09-13: 0 contributions</title></rect>
+<rect x="408" y="377.00" width="10" height="2.00" rx="2" fill="#2a3b4a"><title>2026-09-14: 0 contributions</title></rect>
+<rect x="424" y="377.00" width="10" height="2.00" rx="2" fill="#2a3b4a"><title>2026-09-15: 0 contributions</title></rect>
+<rect x="440" y="377.00" width="10" height="2.00" rx="2" fill="#2a3b4a"><title>2026-09-16: 0 contributions</title></rect>
+<rect x="456" y="377.00" width="10" height="2.00" rx="2" fill="#2a3b4a"><title>2026-09-17: 0 contributions</title></rect>
+<rect x="472" y="377.00" width="10" height="2.00" rx="2" fill="#2a3b4a"><title>2026-09-18: 0 contributions</title></rect>
+<rect x="488" y="289.00" width="10" height="90.00" rx="2" fill="#58d5b0"><title>2026-09-19: 18 contributions</title></rect>
+<rect x="504" y="364.00" width="10" height="15.00" rx="2" fill="#58d5b0"><title>2026-09-20: 3 contributions</title></rect>
+<text x="70" y="403" fill="#93a8b9" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="400" text-anchor="start">08-24</text>
+<text x="516" y="403" fill="#93a8b9" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="400" text-anchor="end">09-20</text>
+<text x="569" y="241" fill="#58d5b0" font-size="11" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="600" text-anchor="start">02 / LANGUAGE MIX</text>
+<text x="569" y="263" fill="#93a8b9" font-size="10" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">Public source repos · by code bytes</text>
+<text x="569" y="285" fill="#dce8ef" font-size="11" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="400" text-anchor="start">JavaScript</text>
+<text x="855" y="285" fill="#58d5b0" font-size="11" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="400" text-anchor="end">76.7%</text>
+<rect x="569" y="293" width="286" height="5" rx="2" fill="#21303e" stroke="none"/>
+<rect x="569" y="293" width="219.4085173933798" height="5" rx="2" fill="#58d5b0" stroke="none"/>
+<text x="569" y="318" fill="#dce8ef" font-size="11" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="400" text-anchor="start">Python</text>
+<text x="855" y="318" fill="#64b5f6" font-size="11" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="400" text-anchor="end">9.9%</text>
+<rect x="569" y="326" width="286" height="5" rx="2" fill="#21303e" stroke="none"/>
+<rect x="569" y="326" width="28.37885769780301" height="5" rx="2" fill="#64b5f6" stroke="none"/>
+<text x="569" y="351" fill="#dce8ef" font-size="11" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="400" text-anchor="start">CSS</text>
+<text x="855" y="351" fill="#bb9af7" font-size="11" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="400" text-anchor="end">7.2%</text>
+<rect x="569" y="359" width="286" height="5" rx="2" fill="#21303e" stroke="none"/>
+<rect x="569" y="359" width="20.687232651423766" height="5" rx="2" fill="#bb9af7" stroke="none"/>
+<text x="569" y="384" fill="#dce8ef" font-size="11" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="400" text-anchor="start">Other</text>
+<text x="855" y="384" fill="#f2c879" font-size="11" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="400" text-anchor="end">6.1%</text>
+<rect x="569" y="392" width="286" height="5" rx="2" fill="#21303e" stroke="none"/>
+<rect x="569" y="392" width="17.525392257393413" height="5" rx="2" fill="#f2c879" stroke="none"/>
+<rect x="26" y="441" width="848" height="158" rx="9" fill="#0d1722" stroke="#233343"/>
+<text x="43" y="466" fill="#58d5b0" font-size="11" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="600" text-anchor="start">03 / REPOSITORY INDEX</text>
+<text x="856" y="466" fill="#93a8b9" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="400" text-anchor="end">RECENT PUSHES</text>
+<text x="43" y="489" fill="#93a8b9" font-size="9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="400" text-anchor="start">REPOSITORY</text>
+<text x="532" y="489" fill="#93a8b9" font-size="9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="400" text-anchor="start">LANGUAGE</text>
+<text x="690" y="489" fill="#93a8b9" font-size="9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="400" text-anchor="end">STARS</text>
+<text x="856" y="489" fill="#93a8b9" font-size="9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="400" text-anchor="end">PUSHED (UTC)</text>
+<path d="M43 498H856" stroke="#21303e"/>
+<text x="43" y="516" fill="#dce8ef" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="400" text-anchor="start">quyen2867</text>
+<text x="532" y="516" fill="#93a8b9" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="400" text-anchor="start">—</text>
+<text x="690" y="516" fill="#58d5b0" font-size="11" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="400" text-anchor="end">0</text>
+<text x="856" y="516" fill="#93a8b9" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="400" text-anchor="end">2026-09-20</text>
+<path d="M43 527H856" stroke="#21303e"/>
+<text x="43" y="545" fill="#dce8ef" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="400" text-anchor="start">profile</text>
+<text x="532" y="545" fill="#93a8b9" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="400" text-anchor="start">TypeScript</text>
+<text x="690" y="545" fill="#58d5b0" font-size="11" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="400" text-anchor="end">0</text>
+<text x="856" y="545" fill="#93a8b9" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="400" text-anchor="end">2026-09-19</text>
+<path d="M43 556H856" stroke="#21303e"/>
+<text x="43" y="574" fill="#dce8ef" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="400" text-anchor="start">video-logo-remover</text>
+<text x="532" y="574" fill="#93a8b9" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="400" text-anchor="start">Python</text>
+<text x="690" y="574" fill="#58d5b0" font-size="11" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="400" text-anchor="end">0</text>
+<text x="856" y="574" fill="#93a8b9" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="400" text-anchor="end">2026-09-19</text>
+<text x="26" y="625" fill="#7f94a6" font-size="9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="400" text-anchor="start">SOURCE / GITHUB API</text>
+<text x="874" y="625" fill="#7f94a6" font-size="9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="400" text-anchor="end">UPDATED / 2026-09-20 08:40 UTC</text>
+</svg>
