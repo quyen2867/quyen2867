@@ -36,3 +36,25 @@
 </picture>
 
 <sub>Generated daily from my GitHub contributions.</sub>
+
+### 🎧 On My Playlist
+
+<!-- spotify-playlist:start -->
+<table>
+  <tr>
+    <td width="160" align="center">
+      <a href="https://open.spotify.com/playlist/1g63cK4fRMp9APHSwv5AfL">
+        <img src="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84c7f8b4fab792cd1308201c99" width="144" height="144" alt="Spotify playlist cover" />
+      </a>
+    </td>
+    <td width="500" valign="middle">
+      <sub>SPOTIFY / MUSIC SELECTION</sub><br />
+      <h3>Listen along.</h3>
+      A little music between commits.<br /><br />
+      <a href="https://open.spotify.com/playlist/1g63cK4fRMp9APHSwv5AfL">
+        <img src="https://raw.githubusercontent.com/quyen2867/quyen2867/main/assets/spotify-open.svg" width="224" height="40" alt="Open playlist in Spotify" />
+      </a>
+    </td>
+  </tr>
+</table>
+<!-- spotify-playlist:end -->
