@@ -6,6 +6,12 @@
 </p>
 <!-- typing-intro:end -->
 
+<!-- visual-map:start -->
+<p align="center">
+  <img width="900" src="https://raw.githubusercontent.com/quyen2867/quyen2867/main/assets/visual-map.svg" alt="quyen2867 visual map: animated halftone portrait flipping to a Python logo, with system info — builder and developer from Vietnam living in South Korea, focused on automation, AI agents and security" />
+</p>
+<!-- visual-map:end -->
+
 <p align="center"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXc1eWhmbXJoYzNvazIwNjc2OHd3Mzl6NjY3bmtkMzJ1dHZlZzl3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/96MuY2SfXKC1yrI7Wr/giphy.gif" alt="hacker-gif" /></p>
 
 ### 🖥️ System Dashboard
